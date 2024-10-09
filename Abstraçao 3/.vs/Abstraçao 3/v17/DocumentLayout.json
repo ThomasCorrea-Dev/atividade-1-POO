@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\POO\\Atividade 1\\Abstra\u00E7ao 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2453D2E4-4F12-424F-BADC-D1E28C1DE754}|Abstra\u00E7ao 3\\Abstra\u00E7ao 3.csproj|c:\\users\\senai2em\\desktop\\repositorio visual\\introdu\u00E7\u00E3o-c#\\poo\\atividade 1\\abstra\u00E7ao 3\\abstra\u00E7ao 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2453D2E4-4F12-424F-BADC-D1E28C1DE754}|Abstra\u00E7ao 3\\Abstra\u00E7ao 3.csproj|solutionrelative:abstra\u00E7ao 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2453D2E4-4F12-424F-BADC-D1E28C1DE754}|Abstra\u00E7ao 3\\Abstra\u00E7ao 3.csproj|c:\\users\\senai2em\\desktop\\repositorio visual\\introdu\u00E7\u00E3o-c#\\poo\\atividade 1\\abstra\u00E7ao 3\\abstra\u00E7ao 3\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2453D2E4-4F12-424F-BADC-D1E28C1DE754}|Abstra\u00E7ao 3\\Abstra\u00E7ao 3.csproj|solutionrelative:abstra\u00E7ao 3\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\POO\\Atividade 1\\Abstra\u00E7ao 3\\Abstra\u00E7ao 3\\Estoque.cs",
+              "RelativeDocumentMoniker": "Abstra\u00E7ao 3\\Estoque.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\POO\\Atividade 1\\Abstra\u00E7ao 3\\Abstra\u00E7ao 3\\Estoque.cs",
+              "RelativeToolTip": "Abstra\u00E7ao 3\\Estoque.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:01:46.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\POO\\Atividade 1\\Abstra\u00E7ao 3\\Abstra\u00E7ao 3\\Program.cs",
+              "RelativeDocumentMoniker": "Abstra\u00E7ao 3\\Program.cs",
+              "ToolTip": "C:\\Users\\SENAI2EM\\Desktop\\Repositorio visual\\Introdu\u00E7\u00E3o-C#\\POO\\Atividade 1\\Abstra\u00E7ao 3\\Abstra\u00E7ao 3\\Program.cs",
+              "RelativeToolTip": "Abstra\u00E7ao 3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:01:22.784Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
